@@ -1,7 +1,7 @@
 # Segurança da empresa ao software - Será que eu tranquei a porta?
 
 ## Conteúdo  
-[Apresentação](/apresentacao.pdf)  
+[Apresentação](https://github.com/danielpfernandes/tdc_transformations_sec_inatel/blob/main/apresentacao.pdf)  
 
 ## Links  
 
