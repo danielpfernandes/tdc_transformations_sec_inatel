@@ -1,13 +1,7 @@
 # Segurança da empresa ao software - Será que eu tranquei a porta?
 
-<figure class="video_container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WGBV11CG8NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
 ## Conteúdo  
 [Apresentação](/apresentacao.pdf)  
-
----
 
 ## Links  
 
@@ -18,12 +12,6 @@
 [OWASP Zed Attack Proxy](https://www.zaproxy.org/)   
 [Nessus](https://www.tenable.com/products/nessus)   
 [OpenVAS](https://openvas.org/)   
-[]()   
-[]()   
-[]()   
-[]()   
-[]()   
-[]()   
 
 ### Referências   
 [CxSC Telecom - Centro de Segurança Cibernética do Inatel](https://inatel.br/cxsc/)   
