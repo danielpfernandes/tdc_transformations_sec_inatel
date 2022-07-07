@@ -2,6 +2,9 @@
 
 Disponível em [danielpfernandes.github.io/tdc_transformations_sec_inatel/](https://danielpfernandes.github.io/tdc_transformations_sec_inatel/)
 
+## Anúncio do Evento
+[Inatel no TDC Transformation](https://promo.thedevconf.com/transformation-inatel)
+
 ## Conteúdo  
 [Apresentação](/apresentacao.pdf)  
 
